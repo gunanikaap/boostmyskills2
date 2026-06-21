@@ -1,0 +1,1110 @@
+[
+  {
+    "route": "/",
+    "url": "https://boostmyskills.eu/",
+    "status": 200,
+    "title": "Free EU Sustainability Courses | BoostMySkills",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Become a leader in sustainability"
+      },
+      {
+        "level": 2,
+        "text": "Our Trending Micro-programmes"
+      },
+      {
+        "level": 2,
+        "text": "Micro-credential and Micro-programme Certificates"
+      },
+      {
+        "level": 2,
+        "text": "Choose your option"
+      },
+      {
+        "level": 3,
+        "text": "Benefits of BoostMySkills"
+      },
+      {
+        "level": 1,
+        "text": "What People Are Saying"
+      },
+      {
+        "level": 3,
+        "text": "Our Partners"
+      }
+    ],
+    "links": [
+      {
+        "href": "#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "Catalogue"
+      },
+      {
+        "href": "/programs/",
+        "text": "Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Micro-credentials"
+      },
+      {
+        "href": "/register?next=%2F",
+        "text": "Register for free"
+      },
+      {
+        "href": "/login?next=%2F",
+        "text": "Sign in"
+      },
+      {
+        "href": "/programs/",
+        "text": "Explore Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Explore Micro-credentials"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/a29219f6-3563-4715-bd02-29cd5ea48bdf",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/3a94b30f-327f-4bc9-ad4a-2211b8328056",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/da46bcc5-008f-49ab-84ba-102f66cbd7b0",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/ca9c4d3f-1540-46b1-955f-b57163377987",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/bc929274-01b2-4687-a38c-a9d61bba607f",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/a4611b4e-caa4-4012-8962-b9f4d5629b0d",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/1b7abbbe-ef14-45f4-9dce-92f92090c297",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/6aa09c6c-484c-43a0-97fa-1cc0ec58ca07",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/c95ce00f-8204-4f6c-9281-b92097256464",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/581037c4-ff3e-46f2-bb9e-d6305e8e168d",
+        "text": "Enrol"
+      },
+      {
+        "href": "/programs/",
+        "text": "View all Micro-programmes"
+      },
+      {
+        "href": "/programs",
+        "text": "View all"
+      },
+      {
+        "href": "/courses",
+        "text": "View all"
+      },
+      {
+        "href": "https://www.res4city.eu/self-assessment/",
+        "text": "Self-Assessment"
+      },
+      {
+        "href": "/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://boostmyskills.eu/cookie_policy",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "/tos",
+        "text": "Terms and Conditions"
+      },
+      {
+        "href": "https://www.res4city.eu/",
+        "text": "RES4CITY"
+      },
+      {
+        "href": "https://www.sherlockproject.eu/",
+        "text": "SHERLOCK"
+      },
+      {
+        "href": "https://www.coss.ac.kr/",
+        "text": "COSS"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact Us"
+      },
+      {
+        "href": "https://boostmyskills.eu/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.linkedin.com/company/res4city/posts/?feedView=all",
+        "text": ""
+      }
+    ],
+    "assets": [
+      "/static/js/i18n/en/djangojs.0f66acafc573.js",
+      "/static/js/ie11_find_array.67b5a9edd5d5.js",
+      "/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+      "/static/res4city-theme/css/lms-style-vendor.68e48093f5dd.css",
+      "/static/res4city-theme/css/lms-main-v1.883001f2c16f.css",
+      "/static/js/lms-main_vendor.211c5a13e466.js",
+      "/static/js/lms-application.e137e602d358.js",
+      "/static/bundles/commons.7b96a8602fc532ce4472.cfc1c31bd4d3.js",
+      "/static/lms/js/require-config.dc07836174b8.js",
+      "/static/res4city-theme/css/res4city.0344c3c07824.css",
+      "/static/res4city-theme/css/res4city-footer.dbecba510c6b.css",
+      "/static/res4city-theme/images/logo.a04a35de0e9f.png",
+      "/static/res4city-theme/css/res4city-header.ac7a33143730.css",
+      "/static/res4city-theme/images/arrow.c3581fde60ca.png",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.css",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.js",
+      "/static/res4city-theme/css/res4city-landing.f218f6a9b122.css",
+      "/static/res4city-theme/css/res4city-programs-section.bae95dbebb76.css",
+      "/static/res4city-theme/css/res4city-diploma.8f94dd89701e.css",
+      "/static/res4city-theme/css/res4city-choose.eba6a7c23460.css",
+      "/static/res4city-theme/css/res4city-steps.77d4d28335dc.css",
+      "/static/res4city-theme/css/res4city-benefits.6f2059c11f3e.css",
+      "/static/res4city-theme/css/res4city-testimonials.4aa8e2875116.css",
+      "/static/res4city-theme/css/res4city-partners.2269368807ce.css",
+      "/static/res4city-theme/css/res4city-programs-items.ec620bdd7c41.css",
+      "/static/res4city-theme/images/Arrow_Forward.a70d6dfccf6c.png",
+      "/static/res4city-theme/images/landing_img.0025075b09c8.png",
+      "/static/res4city-theme/images/programs/mp1.9026de4b47c9.jpg",
+      "/static/res4city-theme/images/programs/mp2.125341b35629.jpg",
+      "/static/res4city-theme/images/programs/mp3.1ab99ffae2ef.jpg",
+      "/static/res4city-theme/images/programs/mp4.a8992395cb98.jpg",
+      "/static/res4city-theme/images/programs/mp5.3afe1946e986.jpg",
+      "/static/res4city-theme/images/programs/mp6.afaf4ce66e89.jpg",
+      "/static/res4city-theme/images/programs/mp7.d023a8ea266c.jpg",
+      "/static/res4city-theme/images/programs/mp8.898d5fe545e5.jpg",
+      "/static/res4city-theme/images/programs/mp01sher.bc0585ca56ef.jpg",
+      "/static/res4city-theme/images/programs/mp02sher.bc0585ca56ef.jpg",
+      "/static/res4city-theme/images/blackarrow.25a66181dabb.png",
+      "/static/res4city-theme/images/certified.2582bff6a7ea.png",
+      "/static/res4city-theme/images/r4c-certificate.76545a175564.png",
+      "/static/res4city-theme/images/heart.a76e079306cc.png",
+      "/static/res4city-theme/images/optionicon.3dc645319e54.png",
+      "/static/res4city-theme/images/home-page-img.b2cc07721479.png",
+      "/static/res4city-theme/images/star.ffd87cc2e00c.png",
+      "/static/res4city-theme/images/labelicon.fd6b9127601c.png",
+      "/static/res4city-theme/images/lightningicon.0cbdd4b6b50a.png",
+      "/static/res4city-theme/images/heart_black.97c7e3eef5ef.png",
+      "/static/res4city-theme/images/useravatar.0eb2bfbacfab.png",
+      "/static/res4city-theme/images/partners.6d0f72c41051.jpeg",
+      "/static/res4city-theme/images/extra_partners.c099416e96ae.png",
+      "/static/res4city-theme/js/res4city-index.237ff5719dfa.js",
+      "/static/res4city-theme/images/linkedin.cda251af4802.png",
+      "/static/js/vendor/noreferrer.aa62a3e70ffa.js",
+      "/static/js/utils/navigation.5a78fd05918f.js",
+      "/static/js/header/header.5d27dd11cfda.js",
+      "/static/js/src/jquery_extend_patch.54dddef28d15.js"
+    ]
+  },
+  {
+    "route": "/programs/",
+    "url": "https://boostmyskills.eu/programs/",
+    "status": 200,
+    "title": "Free EU Sustainability Courses | BoostMySkills",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Micro-programmes"
+      }
+    ],
+    "links": [
+      {
+        "href": "#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "Catalogue"
+      },
+      {
+        "href": "/programs/",
+        "text": "Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Micro-credentials"
+      },
+      {
+        "href": "/register?next=%2Fprograms%2F",
+        "text": "Register for free"
+      },
+      {
+        "href": "/login?next=%2Fprograms%2F",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/a29219f6-3563-4715-bd02-29cd5ea48bdf",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/3a94b30f-327f-4bc9-ad4a-2211b8328056",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/da46bcc5-008f-49ab-84ba-102f66cbd7b0",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/ca9c4d3f-1540-46b1-955f-b57163377987",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/bc929274-01b2-4687-a38c-a9d61bba607f",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/a4611b4e-caa4-4012-8962-b9f4d5629b0d",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/1b7abbbe-ef14-45f4-9dce-92f92090c297",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/6aa09c6c-484c-43a0-97fa-1cc0ec58ca07",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/c95ce00f-8204-4f6c-9281-b92097256464",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://boostmyskills.eu/dashboard/programs/581037c4-ff3e-46f2-bb9e-d6305e8e168d",
+        "text": "Enrol"
+      },
+      {
+        "href": "https://www.res4city.eu/self-assessment/",
+        "text": "Self-Assessment"
+      },
+      {
+        "href": "/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://boostmyskills.eu/cookie_policy",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "/tos",
+        "text": "Terms and Conditions"
+      },
+      {
+        "href": "https://www.res4city.eu/",
+        "text": "RES4CITY"
+      },
+      {
+        "href": "https://www.sherlockproject.eu/",
+        "text": "SHERLOCK"
+      },
+      {
+        "href": "https://www.coss.ac.kr/",
+        "text": "COSS"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact Us"
+      },
+      {
+        "href": "https://boostmyskills.eu/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.linkedin.com/company/res4city/posts/?feedView=all",
+        "text": ""
+      }
+    ],
+    "assets": [
+      "/static/js/i18n/en/djangojs.0f66acafc573.js",
+      "/static/js/ie11_find_array.67b5a9edd5d5.js",
+      "/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+      "/static/res4city-theme/css/lms-style-vendor.68e48093f5dd.css",
+      "/static/res4city-theme/css/lms-main-v1.883001f2c16f.css",
+      "/static/js/lms-main_vendor.211c5a13e466.js",
+      "/static/js/lms-application.e137e602d358.js",
+      "/static/bundles/commons.7b96a8602fc532ce4472.cfc1c31bd4d3.js",
+      "/static/lms/js/require-config.dc07836174b8.js",
+      "/static/res4city-theme/css/res4city.0344c3c07824.css",
+      "/static/res4city-theme/css/res4city-footer.dbecba510c6b.css",
+      "/static/res4city-theme/images/logo.a04a35de0e9f.png",
+      "/static/res4city-theme/css/res4city-header.ac7a33143730.css",
+      "/static/res4city-theme/images/arrow.c3581fde60ca.png",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.css",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.js",
+      "/static/res4city-theme/css/res4city-programs-section.bae95dbebb76.css",
+      "/static/res4city-theme/css/res4city-programs-items.ec620bdd7c41.css",
+      "/static/res4city-theme/images/programs/mp1.9026de4b47c9.jpg",
+      "/static/res4city-theme/images/Arrow_Forward.a70d6dfccf6c.png",
+      "/static/res4city-theme/images/programs/mp2.125341b35629.jpg",
+      "/static/res4city-theme/images/programs/mp3.1ab99ffae2ef.jpg",
+      "/static/res4city-theme/images/programs/mp4.a8992395cb98.jpg",
+      "/static/res4city-theme/images/programs/mp5.3afe1946e986.jpg",
+      "/static/res4city-theme/images/programs/mp6.afaf4ce66e89.jpg",
+      "/static/res4city-theme/images/programs/mp7.d023a8ea266c.jpg",
+      "/static/res4city-theme/images/programs/mp8.898d5fe545e5.jpg",
+      "/static/res4city-theme/images/programs/mp01sher.bc0585ca56ef.jpg",
+      "/static/res4city-theme/images/programs/mp02sher.bc0585ca56ef.jpg",
+      "/static/res4city-theme/images/linkedin.cda251af4802.png",
+      "/static/js/vendor/noreferrer.aa62a3e70ffa.js",
+      "/static/js/utils/navigation.5a78fd05918f.js",
+      "/static/js/header/header.5d27dd11cfda.js",
+      "/static/js/src/jquery_extend_patch.54dddef28d15.js"
+    ]
+  },
+  {
+    "route": "/courses",
+    "url": "https://boostmyskills.eu/courses",
+    "status": 200,
+    "title": "Free EU Sustainability Courses | BoostMySkills",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Refine Your Search"
+      }
+    ],
+    "links": [
+      {
+        "href": "#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "Catalogue"
+      },
+      {
+        "href": "/programs/",
+        "text": "Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Micro-credentials"
+      },
+      {
+        "href": "/register?next=%2Fcourses",
+        "text": "Register for free"
+      },
+      {
+        "href": "/login?next=%2Fcourses",
+        "text": "Sign in"
+      },
+      {
+        "href": "/courses/<%- course %>/about",
+        "text": "\" alt=\" \" /> Enrol /about\"class=\"r4c-moreinfo\"> More info"
+      },
+      {
+        "href": "https://www.res4city.eu/self-assessment/",
+        "text": "Self-Assessment"
+      },
+      {
+        "href": "/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://boostmyskills.eu/cookie_policy",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "/tos",
+        "text": "Terms and Conditions"
+      },
+      {
+        "href": "https://www.res4city.eu/",
+        "text": "RES4CITY"
+      },
+      {
+        "href": "https://www.sherlockproject.eu/",
+        "text": "SHERLOCK"
+      },
+      {
+        "href": "https://www.coss.ac.kr/",
+        "text": "COSS"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact Us"
+      },
+      {
+        "href": "https://boostmyskills.eu/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.linkedin.com/company/res4city/posts/?feedView=all",
+        "text": ""
+      }
+    ],
+    "assets": [
+      "/static/js/i18n/en/djangojs.0f66acafc573.js",
+      "/static/js/ie11_find_array.67b5a9edd5d5.js",
+      "/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+      "/static/res4city-theme/css/lms-style-vendor.68e48093f5dd.css",
+      "/static/res4city-theme/css/lms-main-v1.883001f2c16f.css",
+      "/static/js/lms-main_vendor.211c5a13e466.js",
+      "/static/js/lms-application.e137e602d358.js",
+      "/static/bundles/commons.7b96a8602fc532ce4472.cfc1c31bd4d3.js",
+      "/static/lms/js/require-config.dc07836174b8.js",
+      "/static/res4city-theme/css/res4city.0344c3c07824.css",
+      "/static/res4city-theme/css/res4city-footer.dbecba510c6b.css",
+      "/static/res4city-theme/images/logo.a04a35de0e9f.png",
+      "/static/res4city-theme/css/res4city-header.ac7a33143730.css",
+      "/static/res4city-theme/images/arrow.c3581fde60ca.png",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.css",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.js",
+      "/static/res4city-theme/css/res4city-courses.08687b1ae013.css",
+      "/static/res4city-theme/images/Arrow_Forward.png",
+      "/static/res4city-theme/images/close-icon.svg",
+      "/static/res4city-theme/images/chevron.svg",
+      "/static/js/discovery/discovery_factory.459189a42bef.js?raw",
+      "/static/res4city-theme/images/linkedin.cda251af4802.png",
+      "/static/js/vendor/noreferrer.aa62a3e70ffa.js",
+      "/static/js/utils/navigation.5a78fd05918f.js",
+      "/static/js/header/header.5d27dd11cfda.js",
+      "/static/js/src/jquery_extend_patch.54dddef28d15.js"
+    ]
+  },
+  {
+    "route": "/about",
+    "url": "https://boostmyskills.eu/about",
+    "status": 200,
+    "title": "Free EU Sustainability Courses | BoostMySkills",
+    "headings": [
+      {
+        "level": 2,
+        "text": "About us"
+      },
+      {
+        "level": 1,
+        "text": "About"
+      }
+    ],
+    "links": [
+      {
+        "href": "#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "Catalogue"
+      },
+      {
+        "href": "/programs/",
+        "text": "Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Micro-credentials"
+      },
+      {
+        "href": "/register?next=%2Fabout",
+        "text": "Register for free"
+      },
+      {
+        "href": "/login?next=%2Fabout",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://www.res4city.eu/self-assessment/",
+        "text": "Self-Assessment"
+      },
+      {
+        "href": "/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://boostmyskills.eu/cookie_policy",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "/tos",
+        "text": "Terms and Conditions"
+      },
+      {
+        "href": "https://www.res4city.eu/",
+        "text": "RES4CITY"
+      },
+      {
+        "href": "https://www.sherlockproject.eu/",
+        "text": "SHERLOCK"
+      },
+      {
+        "href": "https://www.coss.ac.kr/",
+        "text": "COSS"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact Us"
+      },
+      {
+        "href": "https://boostmyskills.eu/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.linkedin.com/company/res4city/posts/?feedView=all",
+        "text": ""
+      }
+    ],
+    "assets": [
+      "/static/js/i18n/en/djangojs.0f66acafc573.js",
+      "/static/js/ie11_find_array.67b5a9edd5d5.js",
+      "/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+      "/static/res4city-theme/css/lms-style-vendor.68e48093f5dd.css",
+      "/static/res4city-theme/css/lms-main-v1.883001f2c16f.css",
+      "/static/js/lms-main_vendor.211c5a13e466.js",
+      "/static/js/lms-application.e137e602d358.js",
+      "/static/bundles/commons.7b96a8602fc532ce4472.cfc1c31bd4d3.js",
+      "/static/lms/js/require-config.dc07836174b8.js",
+      "/static/res4city-theme/css/res4city.0344c3c07824.css",
+      "/static/res4city-theme/css/res4city-footer.dbecba510c6b.css",
+      "/static/res4city-theme/images/logo.a04a35de0e9f.png",
+      "/static/res4city-theme/css/res4city-header.ac7a33143730.css",
+      "/static/res4city-theme/images/arrow.c3581fde60ca.png",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.css",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.js",
+      "/static/res4city-theme/css/res4city-sm.b37c1b3204d3.css",
+      "/static/res4city-theme/images/linkedin.cda251af4802.png",
+      "/static/js/vendor/noreferrer.aa62a3e70ffa.js",
+      "/static/js/utils/navigation.5a78fd05918f.js",
+      "/static/js/header/header.5d27dd11cfda.js",
+      "/static/js/src/jquery_extend_patch.54dddef28d15.js"
+    ]
+  },
+  {
+    "route": "/contact",
+    "url": "https://boostmyskills.eu/contact",
+    "status": 200,
+    "title": "Free EU Sustainability Courses | BoostMySkills",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Let’s get in touch!"
+      }
+    ],
+    "links": [
+      {
+        "href": "#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "Catalogue"
+      },
+      {
+        "href": "/programs/",
+        "text": "Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Micro-credentials"
+      },
+      {
+        "href": "/register?next=%2Fcontact",
+        "text": "Register for free"
+      },
+      {
+        "href": "/login?next=%2Fcontact",
+        "text": "Sign in"
+      },
+      {
+        "href": "#",
+        "text": ""
+      },
+      {
+        "href": "https://www.res4city.eu/self-assessment/",
+        "text": "Self-Assessment"
+      },
+      {
+        "href": "/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://boostmyskills.eu/cookie_policy",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "/tos",
+        "text": "Terms and Conditions"
+      },
+      {
+        "href": "https://www.res4city.eu/",
+        "text": "RES4CITY"
+      },
+      {
+        "href": "https://www.sherlockproject.eu/",
+        "text": "SHERLOCK"
+      },
+      {
+        "href": "https://www.coss.ac.kr/",
+        "text": "COSS"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact Us"
+      },
+      {
+        "href": "https://boostmyskills.eu/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.linkedin.com/company/res4city/posts/?feedView=all",
+        "text": ""
+      }
+    ],
+    "assets": [
+      "/static/js/i18n/en/djangojs.0f66acafc573.js",
+      "/static/js/ie11_find_array.67b5a9edd5d5.js",
+      "/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+      "/static/res4city-theme/css/lms-style-vendor.68e48093f5dd.css",
+      "/static/res4city-theme/css/lms-main-v1.883001f2c16f.css",
+      "/static/js/lms-main_vendor.211c5a13e466.js",
+      "/static/js/lms-application.e137e602d358.js",
+      "/static/bundles/commons.7b96a8602fc532ce4472.cfc1c31bd4d3.js",
+      "/static/lms/js/require-config.dc07836174b8.js",
+      "/static/res4city-theme/css/res4city.0344c3c07824.css",
+      "/static/res4city-theme/css/res4city-footer.dbecba510c6b.css",
+      "/static/res4city-theme/images/logo.a04a35de0e9f.png",
+      "/static/res4city-theme/css/res4city-header.ac7a33143730.css",
+      "/static/res4city-theme/images/arrow.c3581fde60ca.png",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.css",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.js",
+      "/static/res4city-theme/css/res4city-sm.b37c1b3204d3.css",
+      "/static/res4city-theme/images/linkedin.9a31b24db29f.svg",
+      "/static/res4city-theme/images/Arrow_Forward.a70d6dfccf6c.png",
+      "/static/res4city-theme/images/linkedin.cda251af4802.png",
+      "/static/js/vendor/noreferrer.aa62a3e70ffa.js",
+      "/static/js/utils/navigation.5a78fd05918f.js",
+      "/static/js/header/header.5d27dd11cfda.js",
+      "/static/js/src/jquery_extend_patch.54dddef28d15.js"
+    ]
+  },
+  {
+    "route": "/privacy",
+    "url": "https://boostmyskills.eu/privacy",
+    "status": 200,
+    "title": "Free EU Sustainability Courses | BoostMySkills",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Privacy Policy"
+      },
+      {
+        "level": 3,
+        "text": "1. Introduction"
+      },
+      {
+        "level": 3,
+        "text": "2. Who we are / Contact information"
+      },
+      {
+        "level": 3,
+        "text": "3. Scope"
+      },
+      {
+        "level": 3,
+        "text": "4. What data we collect"
+      },
+      {
+        "level": 3,
+        "text": "5. Legal basis for processing"
+      },
+      {
+        "level": 3,
+        "text": "6. How we use your data"
+      },
+      {
+        "level": 3,
+        "text": "7. Sharing your data / third parties"
+      },
+      {
+        "level": 3,
+        "text": "8. International transfers"
+      },
+      {
+        "level": 3,
+        "text": "9. Data retention"
+      },
+      {
+        "level": 3,
+        "text": "10. Cookies and tracking technologies"
+      },
+      {
+        "level": 3,
+        "text": "11. Your rights"
+      },
+      {
+        "level": 3,
+        "text": "12. Security"
+      },
+      {
+        "level": 3,
+        "text": "13. Changes to this policy"
+      },
+      {
+        "level": 3,
+        "text": "14. Contact us"
+      }
+    ],
+    "links": [
+      {
+        "href": "#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "Catalogue"
+      },
+      {
+        "href": "/programs/",
+        "text": "Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Micro-credentials"
+      },
+      {
+        "href": "/register?next=%2Fprivacy",
+        "text": "Register for free"
+      },
+      {
+        "href": "/login?next=%2Fprivacy",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://www.res4city.eu/self-assessment/",
+        "text": "Self-Assessment"
+      },
+      {
+        "href": "/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://boostmyskills.eu/cookie_policy",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "/tos",
+        "text": "Terms and Conditions"
+      },
+      {
+        "href": "https://www.res4city.eu/",
+        "text": "RES4CITY"
+      },
+      {
+        "href": "https://www.sherlockproject.eu/",
+        "text": "SHERLOCK"
+      },
+      {
+        "href": "https://www.coss.ac.kr/",
+        "text": "COSS"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact Us"
+      },
+      {
+        "href": "https://boostmyskills.eu/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.linkedin.com/company/res4city/posts/?feedView=all",
+        "text": ""
+      }
+    ],
+    "assets": [
+      "/static/js/i18n/en/djangojs.0f66acafc573.js",
+      "/static/js/ie11_find_array.67b5a9edd5d5.js",
+      "/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+      "/static/res4city-theme/css/lms-style-vendor.68e48093f5dd.css",
+      "/static/res4city-theme/css/lms-main-v1.883001f2c16f.css",
+      "/static/js/lms-main_vendor.211c5a13e466.js",
+      "/static/js/lms-application.e137e602d358.js",
+      "/static/bundles/commons.7b96a8602fc532ce4472.cfc1c31bd4d3.js",
+      "/static/lms/js/require-config.dc07836174b8.js",
+      "/static/res4city-theme/css/res4city.0344c3c07824.css",
+      "/static/res4city-theme/css/res4city-footer.dbecba510c6b.css",
+      "/static/res4city-theme/images/logo.a04a35de0e9f.png",
+      "/static/res4city-theme/css/res4city-header.ac7a33143730.css",
+      "/static/res4city-theme/images/arrow.c3581fde60ca.png",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.css",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.js",
+      "/static/res4city-theme/css/res4city-sm.b37c1b3204d3.css",
+      "/static/res4city-theme/images/linkedin.cda251af4802.png",
+      "/static/js/vendor/noreferrer.aa62a3e70ffa.js",
+      "/static/js/utils/navigation.5a78fd05918f.js",
+      "/static/js/header/header.5d27dd11cfda.js",
+      "/static/js/src/jquery_extend_patch.54dddef28d15.js"
+    ]
+  },
+  {
+    "route": "/cookie_policy",
+    "url": "https://boostmyskills.eu/cookie_policy",
+    "status": 200,
+    "title": "Free EU Sustainability Courses | BoostMySkills",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Cookie Policy"
+      },
+      {
+        "level": 3,
+        "text": "What type of cookies are used on this Website and for what purpose?"
+      },
+      {
+        "level": 3,
+        "text": "Who uses cookies on this Website?"
+      },
+      {
+        "level": 3,
+        "text": "How are the cookies on this Website accepted, rejected, revoked, or limited?"
+      },
+      {
+        "level": 3,
+        "text": "Are international data transfers made from this Website?"
+      }
+    ],
+    "links": [
+      {
+        "href": "#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "Catalogue"
+      },
+      {
+        "href": "/programs/",
+        "text": "Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Micro-credentials"
+      },
+      {
+        "href": "/register?next=%2Fcookie_policy",
+        "text": "Register for free"
+      },
+      {
+        "href": "/login?next=%2Fcookie_policy",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://www.res4city.eu/self-assessment/",
+        "text": "Self-Assessment"
+      },
+      {
+        "href": "/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://boostmyskills.eu/cookie_policy",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "/tos",
+        "text": "Terms and Conditions"
+      },
+      {
+        "href": "https://www.res4city.eu/",
+        "text": "RES4CITY"
+      },
+      {
+        "href": "https://www.sherlockproject.eu/",
+        "text": "SHERLOCK"
+      },
+      {
+        "href": "https://www.coss.ac.kr/",
+        "text": "COSS"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact Us"
+      },
+      {
+        "href": "https://boostmyskills.eu/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.linkedin.com/company/res4city/posts/?feedView=all",
+        "text": ""
+      }
+    ],
+    "assets": [
+      "/static/js/i18n/en/djangojs.0f66acafc573.js",
+      "/static/js/ie11_find_array.67b5a9edd5d5.js",
+      "/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+      "/static/res4city-theme/css/lms-style-vendor.68e48093f5dd.css",
+      "/static/res4city-theme/css/lms-main-v1.883001f2c16f.css",
+      "/static/js/lms-main_vendor.211c5a13e466.js",
+      "/static/js/lms-application.e137e602d358.js",
+      "/static/bundles/commons.7b96a8602fc532ce4472.cfc1c31bd4d3.js",
+      "/static/lms/js/require-config.dc07836174b8.js",
+      "/static/res4city-theme/css/res4city.0344c3c07824.css",
+      "/static/res4city-theme/css/res4city-footer.dbecba510c6b.css",
+      "/static/res4city-theme/images/logo.a04a35de0e9f.png",
+      "/static/res4city-theme/css/res4city-header.ac7a33143730.css",
+      "/static/res4city-theme/images/arrow.c3581fde60ca.png",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.css",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.js",
+      "/static/res4city-theme/css/res4city-sm.b37c1b3204d3.css",
+      "/static/res4city-theme/images/linkedin.cda251af4802.png",
+      "/static/js/vendor/noreferrer.aa62a3e70ffa.js",
+      "/static/js/utils/navigation.5a78fd05918f.js",
+      "/static/js/header/header.5d27dd11cfda.js",
+      "/static/js/src/jquery_extend_patch.54dddef28d15.js"
+    ]
+  },
+  {
+    "route": "/tos",
+    "url": "https://boostmyskills.eu/tos",
+    "status": 200,
+    "title": "Free EU Sustainability Courses | BoostMySkills",
+    "headings": [
+      {
+        "level": 2,
+        "text": "Website Terms and Conditions 1. Introduction Welcome to BoostMySkills (\"the Website\"). These Terms and Conditions govern your use of the Website and the services provided by BoostMySkills (\"we,\" \"us,\" or \"our\"), including but not limited to online training courses, tutorials, and educational materials. By accessing or using our Website, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you must not use our Website. 2. Eligibility By using this Website, you represent and warrant that you are at least 18 years old or are accessing the Website under the supervision of a parent or guardian. You agree to comply with all applicable laws and regulations regarding your use of the Website. 3. Account Registration To access certain features of the Website, you will be required to register for an account. You agree to provide accurate, current, and complete information during the registration process and to update such information as necessary. You are responsible for safeguarding your account credentials and for any activities or actions under your account. 4. Use of the Website You agree to use the Website only for lawful purposes. You must not use the Website in any way that: Violates any applicable local, national, or international law or regulation. Is unlawful or fraudulent, or has any unlawful or fraudulent purpose or effect. Attempts to gain unauthorized access to the Website, the server on which the Website is stored, or any server, computer, or database connected to the Website. Harms or attempts to harm minors in any way. 5. Intellectual Property Rights All content included on the Website, such as text, graphics, logos, images, audio clips, digital downloads, data compilations, and software, is the property of BoostMySkill's content suppliers and is protected by international copyright laws. The compilation of all content on this Website is the exclusive property of BoostMySkills contributors and protected by international copyright laws. You may not copy, reproduce, republish, upload, post, transmit, or distribute any content from the Website in any way without our prior written permission. You are granted a limited, non-exclusive, non-transferable, and revocable license to access and use the Website for personal, non-commercial purposes. 6. Course Enrollment and Access When you access a course from the Website, you are granted a limited, non-exclusive, non-transferable, and revocable license to access and use the course for your personal, non-commercial use. This license is subject to these Terms and Conditions and the course-specific terms that may be presented at the time of purchase. Courses are delivered through online streaming and are not downloadable unless explicitly stated. Access to courses may be time-limited, and access may be revoked if these Terms and Conditions are violated. 7. Payment and Refunds Courses are offered free-of-charge. 8. User-Generated Content Where users can post content on the Website, such as comments, reviews, or forum posts. By posting content, you grant BoostMySkills a worldwide, perpetual, irrevocable, royalty-free, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform that content in connection with the Website and our business. You represent and warrant that: You own or have the necessary rights to use and authorize us to use all intellectual property rights in any content that you post. Your content does not infringe any third party’s intellectual property rights, privacy, publicity, or other personal or proprietary rights. Your content is not defamatory, libelous, obscene, hateful, or otherwise unlawful. 9. Termination We reserve the right to terminate or suspend your account and access to the Website, with or without notice, for any reason, including but not limited to breach of these Terms and Conditions. 10. Disclaimers and Limitation of Liability The Website and the services provided are provided on an \"as is\" and \"as available\" basis. We do not warrant that the Website will be uninterrupted, secure, or error-free. To the fullest extent permitted by law, we disclaim all warranties, express or implied, including but not limited to, implied warranties of merchantability and fitness for a particular purpose. We do not warrant that the Website, content, or services will meet your requirements. In no event shall we be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of, or inability to access or use, the Website. 11. Indemnification You agree to defend, indemnify, and hold harmless BoostMySkills' affiliates, officers, employees, and agents from and against any and all claims, damages, obligations, losses, liabilities, costs, or debt, and expenses (including attorney's fees) arising from: Your use of and access to the Website; Your violation of any term of these Terms and Conditions; Your violation of any third-party right, including without limitation any intellectual property, privacy, or other personal or proprietary right. 12. Governing Law and Jurisdiction These Terms and Conditions shall be governed by and construed in accordance with the laws of Ireland, without regard to its conflict of law provisions. You agree to submit to the personal jurisdiction of the courts located within Ireland], for the purpose of litigating all such claims or disputes. 13. Changes to the Terms and Conditions We reserve the right, at our sole discretion, to modify or replace these Terms and Conditions at any time. Any changes will be effective immediately upon posting on the Website. It is your responsibility to check these Terms and Conditions periodically for changes. Your continued use of the Website following the posting of any changes constitutes acceptance of those changes. 14. Contact Information If you have any questions about these Terms and Conditions, please contact us."
+      }
+    ],
+    "links": [
+      {
+        "href": "#main",
+        "text": "Skip to main content"
+      },
+      {
+        "href": "/",
+        "text": ""
+      },
+      {
+        "href": "#",
+        "text": "Catalogue"
+      },
+      {
+        "href": "/programs/",
+        "text": "Micro-programmes"
+      },
+      {
+        "href": "/courses",
+        "text": "Micro-credentials"
+      },
+      {
+        "href": "/register?next=%2Ftos",
+        "text": "Register for free"
+      },
+      {
+        "href": "/login?next=%2Ftos",
+        "text": "Sign in"
+      },
+      {
+        "href": "https://www.res4city.eu/self-assessment/",
+        "text": "Self-Assessment"
+      },
+      {
+        "href": "/privacy",
+        "text": "Privacy Policy"
+      },
+      {
+        "href": "https://boostmyskills.eu/cookie_policy",
+        "text": "Cookie Policy"
+      },
+      {
+        "href": "/tos",
+        "text": "Terms and Conditions"
+      },
+      {
+        "href": "https://www.res4city.eu/",
+        "text": "RES4CITY"
+      },
+      {
+        "href": "https://www.sherlockproject.eu/",
+        "text": "SHERLOCK"
+      },
+      {
+        "href": "https://www.coss.ac.kr/",
+        "text": "COSS"
+      },
+      {
+        "href": "/contact",
+        "text": "Contact Us"
+      },
+      {
+        "href": "https://boostmyskills.eu/about",
+        "text": "About us"
+      },
+      {
+        "href": "https://www.linkedin.com/company/res4city/posts/?feedView=all",
+        "text": ""
+      }
+    ],
+    "assets": [
+      "/static/js/i18n/en/djangojs.0f66acafc573.js",
+      "/static/js/ie11_find_array.67b5a9edd5d5.js",
+      "/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+      "/static/res4city-theme/css/lms-style-vendor.68e48093f5dd.css",
+      "/static/res4city-theme/css/lms-main-v1.883001f2c16f.css",
+      "/static/js/lms-main_vendor.211c5a13e466.js",
+      "/static/js/lms-application.e137e602d358.js",
+      "/static/bundles/commons.7b96a8602fc532ce4472.cfc1c31bd4d3.js",
+      "/static/lms/js/require-config.dc07836174b8.js",
+      "/static/res4city-theme/css/res4city.0344c3c07824.css",
+      "/static/res4city-theme/css/res4city-footer.dbecba510c6b.css",
+      "/static/res4city-theme/images/logo.a04a35de0e9f.png",
+      "/static/res4city-theme/css/res4city-header.ac7a33143730.css",
+      "/static/res4city-theme/images/arrow.c3581fde60ca.png",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.css",
+      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.1/cookieconsent.min.js",
+      "/static/res4city-theme/css/res4city-sm.b37c1b3204d3.css",
+      "/static/res4city-theme/images/linkedin.cda251af4802.png",
+      "/static/js/vendor/noreferrer.aa62a3e70ffa.js",
+      "/static/js/utils/navigation.5a78fd05918f.js",
+      "/static/js/header/header.5d27dd11cfda.js",
+      "/static/js/src/jquery_extend_patch.54dddef28d15.js"
+    ]
+  }
+]

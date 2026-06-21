@@ -1,0 +1,75 @@
+
+.energy_technology_image {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+
+.energy_technology_content {
+    flex-basis: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.energy_technology_content>h2 {
+    font: 'Urbanist', sans-serif;
+}
+
+h2.energy_technology_header {
+    color: black;
+    font-size: 2.2rem;
+    font-weight: 600;
+    font-family: 'Urbanist', sans-serif !important;
+}
+
+.energy_technology_text {
+    font-size: 1.2rem;
+    color: #716D6B;
+    line-height: 2rem;
+    max-width: 29rem;
+    margin-bottom: 1.5rem;
+}
+
+.certified_container {
+    display: flex;
+    align-items: center;
+}
+
+.certified_text {
+    color: black;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: .8rem;
+}
+
+.diploma-container {
+    width: 90%;
+    margin: auto;
+    max-width:1440px;
+    margin-top: 6rem;
+}
+
+
+.energy_technology_image_container {
+    display: grid;
+    place-content: center;
+}
+
+@media screen and (min-width: 800px) {
+    .energy_technology_image_container {
+        flex-basis: 40%;
+        max-width: 40rem;
+    }
+    .energy_technology {
+        display: flex;
+        justify-content: space-between;
+    }    
+}
+
+@media screen and (min-width: 1200px) {
+    .energy_technology_header {
+        font-size: 5rem;
+    }
+}

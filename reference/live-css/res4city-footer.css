@@ -1,0 +1,495 @@
+/* ------------------------------------------------------------------------ */
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
+/* footer  */
+.wrapper-footer {
+    border-top: none !important;
+    box-shadow: initial !important;
+}
+
+.wrapper-footer .footer {
+    padding: 1.5rem 1.3rem;
+    max-width: 1440px;
+}
+
+@media screen and (min-width:1480px) {
+    .footer {
+        padding: 1.5rem .7rem;
+    }
+
+}
+
+.r4c-footer-logo {
+    width: 122px;
+    height: 56px;
+    margin: auto;
+}
+
+.logo_social_media_container {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.footer a:visited:not(.btn):hover {
+    color: initial !important;
+}
+
+
+.footer_social_media {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.social_media_icon {
+    margin-right: 0.8rem;
+}
+
+.footer_list {
+    margin-bottom: 2rem;
+
+}
+
+.footer_btn_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer_list_header {
+    font-weight: 500;
+    font-size: 0.83rem;
+    line-height: 1.4rem;
+    color: #767676;
+    margin-bottom: 1rem;
+}
+
+.footer_items {
+    padding: 0 0 0 0 !important;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.footer_list_item_link {
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    line-height: 1.55rem !important;
+    color: #1A1A1A !important;
+    font-family: 'Urbanist' !important;
+}
+
+.footer_address {
+    font-weight: 400;
+    font-size: 0.95rem;
+    line-height: 1.55rem;
+    margin-bottom: 1.5rem;
+    font-family: 'Urbanist';
+    color: #1A1A1A !important;
+    font-style: normal !important;
+}
+
+
+.contact_info {
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.55rem;
+    margin-top: 0;
+}
+
+.footer_btn {
+    background-color: none;
+    border: none;
+}
+
+.footer_section {
+    width: 100%;
+    padding: 2rem;
+}
+
+.r4c-funds-container a {
+    text-decoration: none !important;
+}
+
+.r4c-funds-container a:hover {
+    color: initial;
+}
+
+.footer_lists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.r4c-funds-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.r4c-fund-eu {
+    margin-bottom: 2rem
+}
+
+@media screen and (min-width:650px) {
+    .logo_social_media_container {
+        text-align: center;
+    }
+
+    .r4c-funds-container {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .r4c-funds-container {
+        flex-basis: 60%;
+    }
+
+}
+
+@media screen and (min-width: 900px) {
+    .footer_lists {
+        margin: unset;
+        justify-content: center;
+    }
+
+    .footer_list_item_link {
+        font-size: 1.2rem !important;
+    }
+
+    .footer_list_item:not(:last-child) {
+        margin-bottom: 0.6rem;
+    }
+
+
+    .r4c-funds-container {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .r4c-fund-eu {
+        margin-right: 3rem;
+    }
+
+
+}
+
+@media screen and (min-width: 1100px) {
+
+    .footer {
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .footer_lists {
+        display: flex;
+        justify-content: space-around;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    .footer_list {
+        margin-right: 0rem;
+    }
+
+
+    .r4c-project-fund-header {
+        margin-right: auto;
+    }
+
+    .r4c-footer-logo {
+
+        margin: unset !important;
+    }
+}
+
+/********************CONTACT FORM********************/
+
+.r4c-contact-header {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    color: #000000;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    line-height: 125%;
+}
+
+.r4c-contact-info p {
+    font-size: 1.25rem;
+}
+
+.r4c-contact-form-label {
+    font-size: 1.5rem;
+    display: block;
+    margin-bottom: 1rem;
+    font-family: 'Urbanist', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #767676;
+}
+
+.r4c-contact-text {
+    font-size: 1.4rem;
+    color: #000000;
+    line-height: 130%;
+    margin-bottom: 4rem;
+}
+
+.r4c-contact-info {
+    margin-bottom: 5rem;
+}
+
+.r4c-contact-socialmedia-header {
+    font-size: 1.25rem;
+}
+
+
+.r4c-contact-form-col {
+    margin-top: 4rem;
+}
+
+.form-control {
+    margin-bottom: 1.5rem;
+}
+
+.r4c-contact-input {
+    width: 100%;
+}
+
+.form-control-name {
+    display: flex;
+}
+
+.r4c-contact-inpu:focus {
+    outline: none;
+}
+
+.form-control-name :first-child {
+    margin-right: 1.6rem;
+}
+
+.r4c-contact-textarea {
+    width: 100%;
+    height: 7.2rem;
+}
+
+.r4c-contact-form-btn {
+    margin-top: 2rem;
+    background-color: #079845;
+    color: white;
+    border: none !important;
+    border-radius: 2.5rem;
+    font-size: 1.8rem;
+    padding: 1rem 2rem !important;
+}
+
+.r4c-social-icon-container {
+    margin-top: 1.5rem;
+    margin-left: -.75rem;
+    display: flex;
+}
+
+.r4c-contact-socialmedia-icon {
+    margin-right: 1rem;
+}
+
+.r4c-contact-info-email {
+    color: #000000 !important;
+}
+
+/******************ABOUT PAGE AND PRIVACY PAGE*********************/
+
+.r4c-about-title,
+.r4c-privacy-title,
+.r4c-terms-conditions-title {
+    color: #000000;
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Urbanist', sans-serif;
+}
+
+.r4c-about-content,
+.r4c-privacy-content,
+.r4c-terms-conditions-content {
+    color: #767676;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+}
+
+.r4c-about-subtitle,
+.r4c-privacy-subtitle,
+.r4c-terms-conditions-subtitle {
+    color: #079845;
+    font-size: 2.5rem;
+    font-family: 'Urbanist', sans-serif;
+    margin: 3rem 0rem;
+    line-height: 2.5rem;
+}
+
+
+@media screen and (min-width: 900px) {
+
+    .r4c-contact-container {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .r4c-contact-content-col,
+    .r4c-contact-form-col {
+        flex-basis: 50%;
+    }
+
+    .r4c-contact-form-col {
+        align-self: flex-end;
+    }
+
+    .r4c-contact-text {
+        max-width: 44rem;
+    }
+
+    .r4c-contact-header {
+        font-size: 4.6rem;
+        margin-bottom: 6rem;
+        line-height: 120%;
+        max-width: 18rem;
+    }
+
+    .r4c-contact-form-label {
+        font-size: 1.25rem;
+    }
+
+    .r4c-about-title,
+    .r4c-privacy-title,
+    .r4c-terms-conditions-title {
+        font-size: 4.375rem;
+        margin-bottom: 3.75rem;
+    }
+
+    .r4c-about-content,
+    .r4c-privacy-content,
+    .r4c-terms-conditions-content {
+        font-size: 1.25rem;
+        line-height: 1.8rem;
+    }
+
+    .r4c-about-subtitle,
+    .r4c-privacy-subtitle,
+    .r4c-terms-conditions-subtitle {
+        margin-bottom: 1.875rem !important;
+    }
+
+    .r4c-contact-text {
+        font-size: 1.5rem;
+        max-width: 27.5rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .r4c-contact-header {
+        font-size: 4.3rem;
+        max-width: 18.75rem
+    }
+
+    .r4c-contact-form-btn {
+        font-size: 1.125rem;
+        padding: .625rem 1.25rem !important;
+    }
+}
+
+
+/*********CRTTIFICATE SCREEN**************/
+
+
+
+
+:root {
+    --vw: 0.9vw;
+}
+
+@media (min-width: 1280px) {
+    :root {
+        --vw: calc(1280px / 100 * 0.9);
+    }
+}
+
+.certificate-container {
+    position: relative;
+    margin: auto;
+    width: 80%; 
+    max-width: 1200px; 
+}
+
+.certificate-image {
+    width: 100%;
+    height: auto;
+}
+
+.certificate-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    height: 80%;
+    width: 80%;
+}
+
+.r4c-certificate-logo {
+    width: calc(12 * var(--vw)); 
+    margin-bottom: calc(2 * var(--vw)); 
+}
+
+.r4c-certificate-header {
+    font-size: calc(3 * var(--vw)* 0.7); 
+    margin-bottom: calc(2 * var(--vw));
+    color: #716D6B;
+    font-family: 'Urbanist' !important;
+}
+
+.r4c-certificate-student-name {
+    font-size: calc(5 * var(--vw)); 
+    margin-bottom: calc(2 * var(--vw)); 
+    color: #1A1A1A;
+    font-family: "Vollkorn", serif !important;
+    font-weight: 550;
+    text-transform: uppercase;
+}
+
+.r4c-certificate-info {
+    font-size: calc(2.5 * var(--vw)* 0.7); 
+    line-height: 115%;
+    color: #1A1A1A;
+    font-family: 'Urbanist' !important;
+    max-width: 78%;
+    margin: auto;
+    margin-bottom: calc(2 * var(--vw)); 
+}
+
+.r4c-certificate-course-name {
+    font-size: calc(4 * var(--vw)); 
+    margin-bottom: calc(2 * var(--vw)); 
+    color: #1A1A1A;
+    font-family: 'Urbanist' !important;
+    font-weight: bold;
+}
+
+.r4c-certificate-desc {
+    font-size: calc(1.5 * var(--vw)); 
+    line-height: 170%;
+    color: #1A1A1A;
+    font-family: 'Urbanist' !important;
+    width: 80%;
+    margin: auto;
+    font-weight: bold;
+}
+
+.r4c-certificate-signature {
+    position: absolute;
+    bottom: calc(5 * var(--vw)); 
+    left: calc(2 * var(--vw)); 
+    border-top: 1px solid #1A1A1A;
+    padding-top: calc(1.5 * var(--vw)); 
+}

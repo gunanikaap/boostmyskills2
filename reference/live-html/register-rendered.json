@@ -1,0 +1,118 @@
+{
+  "url": "https://apps.boostmyskills.eu/authn/register?next=%2F",
+  "title": "Register | BoostMySkills",
+  "text": "Start learning with BoostMySkills\n\n100% free. No credit card needed.\n\nRegister\nSign in\nFULL NAME\n\nThis is the name that will appear on your certificate!\n\nUSER NAME\nEMAIL\nPASSWORD\nCOUNTRY OF RESIDENCE\nGENDER\nSelect gender\nMale\nFemale\nNon-binary / Third gender\nPrefer not to say\nOther\nI have read and agree to the \nTerms and Conditions\nin a new tab\nCreate an account for free",
+  "forms": [
+    {
+      "id": "registration-form",
+      "className": "",
+      "text": "FULL NAME\n\nThis is the name that will appear on your certificate!\n\nUSER NAME\nEMAIL\nPASSWORD\nCOUNTRY OF RESIDENCE\nGENDER\nSelect gender\nMale\nFemale\nNon-binary / Third gender\nPrefer not to say\nOther\nI have read and agree to the \nTerms and Conditions\nin a new tab\nCreate an account for free",
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "name",
+          "id": "name",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": "passwordIcon",
+          "id": "",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "username",
+          "id": "username",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": "passwordIcon",
+          "id": "",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "email",
+          "id": "email",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": "passwordIcon",
+          "id": "",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": "password",
+          "name": "password",
+          "id": "password",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": "passwordIcon",
+          "id": "",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": null,
+          "name": "country",
+          "id": "form-field1",
+          "placeholder": "",
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": "",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "SELECT",
+          "type": null,
+          "name": "gender",
+          "id": "gender",
+          "placeholder": null,
+          "text": "Select genderMaleFemaleNon-binary / Third genderPrefer not to sayOther"
+        },
+        {
+          "tag": "INPUT",
+          "type": "checkbox",
+          "name": "terms_of_service",
+          "id": "tos",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "submit",
+          "name": "register-user",
+          "id": "register-user",
+          "placeholder": null,
+          "text": "Create an account for free"
+        }
+      ]
+    }
+  ]
+}

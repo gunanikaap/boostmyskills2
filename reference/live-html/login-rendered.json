@@ -1,0 +1,54 @@
+{
+  "url": "https://apps.boostmyskills.eu/authn/login?next=%2F",
+  "title": "Login | BoostMySkills",
+  "text": "Start learning with BoostMySkills\n\n100% free. No credit card needed.\n\nRegister\nSign in\nUSERNAME OR EMAIL\nPASSWORD\nSign in\nForgot password",
+  "forms": [
+    {
+      "id": "sign-in-form",
+      "className": "",
+      "text": "USERNAME OR EMAIL\nPASSWORD\nSign in\nForgot password",
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "emailOrUsername",
+          "id": "emailOrUsername",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": "passwordIcon",
+          "id": "",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": "password",
+          "name": "password",
+          "id": "password",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": "passwordIcon",
+          "id": "",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "submit",
+          "name": "sign-in",
+          "id": "sign-in",
+          "placeholder": null,
+          "text": "Sign in"
+        }
+      ]
+    }
+  ]
+}

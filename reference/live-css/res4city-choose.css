@@ -1,0 +1,100 @@
+
+.options_section {
+    margin-top: 6rem;
+}
+
+.options_headers_box {
+    text-align: center;
+}
+
+.options_header {
+    font-size: 3.2rem;
+    font-weight: 600;
+    margin-bottom: 2.2rem;
+}
+
+h2.options_header {
+    color: black;
+    font-size: 2.2rem;
+    font-weight: 800;
+    font-family: 'Urbanist', sans-serif !important;
+}
+
+
+.p_text_style {
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 2rem;
+    color: #767676;
+}
+
+/* 
+.options_text {
+    margin: auto;
+
+} */
+
+.options_container {
+    margin-top: 3rem;
+}
+
+.option_container {
+    border: .2rem solid #D2D2D2;
+    border-radius: 1.3rem;
+    padding: 2rem;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.micro_option {
+    border-color: #079845;
+}
+
+
+.option_image {
+    display: block;
+    margin: auto;
+    margin-bottom: 2.2rem;
+}
+
+.option_title {
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 3.5rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-family: 'Urbanist', sans-serif !important;
+}
+
+.option_text {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 1.7rem;
+}
+
+.option_btn {
+    margin: auto;
+    font-weight: 700;
+    line-height: 2.2rem;
+    font-size: 1.1rem;
+    padding: 0.4rem 2rem !important;
+}
+
+
+
+
+@media screen and (min-width: 800px) {
+    .options_container {
+        display: flex;
+    }
+    
+    .options_text {
+        max-width: 70%;
+        margin: auto;
+    }
+    
+    .option_container:not(:last-child) {
+        margin-right: 2rem;
+    }
+}
+

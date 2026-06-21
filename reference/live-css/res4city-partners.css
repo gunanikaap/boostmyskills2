@@ -1,0 +1,43 @@
+.partner_section {
+    margin: auto;
+    max-width: 1440px;
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+}
+
+.partner_section_header {
+    font-weight: 600;
+    font-size: 2.2rem;
+    line-height: 6.2rem;
+    margin-bottom: 3.5rem;
+}
+
+h3.partner_section_header {
+    font-family: 'Urbanist', sans-serif !important;
+}
+
+/* .line {
+    width: 100%;
+    height: 1px;
+    background-color: #D2D2D2;
+} */
+
+.partner_container {
+    padding: 0rem 2rem;
+    width: 100%;
+    margin-top: 6rem;
+}
+
+@media screen and (min-width: 800px) {}
+
+
+@media screen and (min-width: 1200px) {
+    .partner_section {
+        margin-bottom: 10rem;
+    }
+
+    .partner_image {
+        width: 100%;
+        max-width: 100rem;
+    }
+}

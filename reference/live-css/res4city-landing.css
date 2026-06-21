@@ -1,0 +1,157 @@
+ /* landing page */
+ .landing-page {
+     margin-top: 4rem !important;
+ }
+
+ .container {
+     max-width: 1440px;
+     margin: auto;
+ }
+
+ .landing-subtitle {
+     color: rgba(7, 152, 69, 1);
+     font-size: 1.5rem;
+     font-weight: 700;
+ }
+
+ .landing-title {
+     color: rgba(26, 26, 26, 1);
+     margin-bottom: 2.5rem;
+     display: block;
+     font-size: 2.2rem;
+     line-height: 2.5rem;
+     margin-block-start: 0.2em;
+     margin-inline-start: 0px;
+     margin-inline-end: 0px;
+     font-weight: bold;
+     text-align: left;
+ }
+
+ .landing-content-text {
+     color: rgba(118, 118, 118, 1);
+     font-size: 1.2rem;
+     line-height: 1.6;
+     margin-bottom: 2.5rem;
+ }
+
+ .landing-explore-btn {
+     font-weight: 600;
+     font-size: 1rem;
+     line-height: 28px;
+     border: 1px;
+     border-radius: 2.7rem;
+     padding: 1rem 1.5rem;
+     background: rgba(7, 152, 69, 1);
+     color: white;
+     display: flex;
+     align-items: center;
+     flex-grow: 1;
+
+ }
+
+ .landing-btn-icon {
+     display: block;
+     margin-left: .8rem;
+ }
+
+ .landing-page-image-wrapper {
+     height: 100%;
+     min-width: 350px;
+     display: none;
+     width: 532px;
+     height: 532px;
+ }
+
+ .landing-page-img {
+     height: 100%;
+     width: 100%;
+     max-width: 100%;
+     object-fit: contain;
+ }
+
+ .r4c-landing-btn-container {
+     display: flex;
+     flex-wrap: wrap;
+ }
+
+ .landing-explore-btn:first-child {
+     margin-right: 1rem;
+ }
+
+ .landing-explore-btn:nth-child(2n+1) {
+     margin-top: 20px;
+ }
+
+
+ @media screen and (min-width: 800px) {
+     .landing-page {
+         display: grid;
+         grid-template-columns: 1fr 1fr;
+         align-items: end;
+     }
+
+
+
+     .landing-content {
+         flex-basis: 50%;
+         align-self: center;
+         height: 100%;
+         display: flex;
+         flex-direction: column;
+         justify-content: space-between;
+     }
+
+     .landing-page-image-wrapper {
+         flex-basis: 50%;
+         display: block;
+     }
+
+     .landing-title {
+         font-size: 4rem;
+         max-width: 34rem;
+         line-height: 4rem;
+     }
+
+     .landing-content-text {
+         font-size: 1.5rem;
+         line-height: 1.9rem;
+         width: 100%;
+         max-width: 37rem;
+     }
+
+     .landing-page-image-wrapper {
+         margin-top: -4rem;
+         flex-basis: 40%;
+     }
+
+     .landing-btn-container {
+         display: flex;
+         margin-left: auto;
+     }
+
+     .r4c-landing-btn-container {
+         display: flex;
+         flex-wrap: wrap;
+     }
+
+     .landing-explore-btn:first-child {
+         margin-right: 1rem;
+     }
+
+     .landing-explore-btn:nth-child(2n+1) {
+         margin-top: 20px;
+     }
+ }
+
+
+ @media screen and (min-width: 1200px) {
+     .landing-content {
+         flex-basis: 40%;
+     }
+ }
+
+ @media screen and (min-width:1495px) {
+     .r4c-landing-btn-container {
+         margin-left: -20px;
+     }
+ }

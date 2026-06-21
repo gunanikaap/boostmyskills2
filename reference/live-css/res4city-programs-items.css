@@ -1,0 +1,364 @@
+.container {
+    padding: 0.75rem !important;
+}
+
+.programs_section {
+    margin-top: 6rem;
+    width: 95%;
+    margin-left: auto;
+    margin: auto;
+}
+
+.section_header {
+    color: #1A1A1A;
+    font-weight: 600;
+    font-size: 2.5rem;
+    letter-spacing: -1.16px;
+    margin-bottom: 4rem;
+    font-family: 'Urbanist', sans-serif;
+}
+
+.landing-subtitle {
+    color: #079845;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    display: inline-block;
+    padding-top: 0.9rem;
+}
+
+.cards_container {
+    margin-bottom: 0rem;
+}
+
+.card {
+    /* border: 1px solid #EEEEEE; */
+    margin: auto !important;
+    margin-right: 2rem !important;
+    margin-bottom: 2rem !important;
+    margin-top: 0rem !important;
+    position: relative;
+
+}
+
+.image_wrapper {
+    background-color: #EAF3E7;
+    border-top-right-radius: 1.5rem;
+    border-top-left-radius: 1.5rem;
+    flex: 1;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+.micro_course_image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+.card_body {
+    padding: 1.8rem .6rem 2rem;
+    margin-bottom: 5rem;
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+}
+
+.card_header {
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 1.2rem;
+    font-family: 'Urbanist', sans-serif !important;
+}
+
+.card_detail_list {
+    list-style: none !important;
+    padding: 0;
+    display: inline-block;
+    margin-bottom: 3rem;
+}
+
+
+.card_detail_list_item {
+    font-weight: 600;
+    font-size: 1rem;
+    color: #767676;
+    line-height: 1.5rem;
+    position: relative;
+    padding-left: 20px;
+}
+
+.card_detail_list_item::before {
+    content: "\2022";
+    position: absolute; 
+    left: 0;
+    top: 0; 
+}
+
+
+.card_detail_header {
+    font-weight: 400;
+}
+
+.card_detail {
+    margin-bottom: 2rem;
+}
+
+.btn {
+    border: 1px;
+    border-radius: 2.7rem;
+    padding: .75rem 1.5rem;
+    background: rgba(7, 152, 69, 1);
+    color: white;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+}
+
+button {
+    appearance: auto;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    margin: 0em;
+    padding-block: 1px;
+    padding-inline: 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+
+
+.r4c-micro-programs-card-moreinfo {
+    font-size: .95rem !important;
+    text-decoration: none !important;
+}
+
+.r4c-micro-programs-card-arrow {
+    margin-left: .3rem;
+    width: 1.3rem;
+}
+
+.card_detail_header {
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #767676;
+    line-height: 1.4rem;
+}
+
+.r4c-micro-programs-card-btns {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+    position: absolute;
+    bottom: 0rem;
+    left: 0;
+    right: 0;
+    padding: 1rem 1.2rem 0rem;
+
+}
+
+.r4c-micro-programs-card-btns .btn_icon {
+    margin-left: .5rem;
+    width: 1.3rem;
+}
+
+.rc4-button-wrapper {
+    position: relative;
+    display: flex;
+}
+
+.r4c-micro-programs .card_body {
+    padding: 1rem 1.5rem 0rem;
+}
+
+.micro-programs-enroll-btn {
+    margin-right: .5rem;
+    font-size: .9rem !important;
+    font-weight: 600;
+    text-decoration: none !important;
+}
+
+.r4c-micro-programs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 500px));
+    grid-gap: 2rem;
+    justify-content: center;
+}
+
+a:not(.btn):hover,
+a:not(.btn):focus,
+a:visited:not(.btn):hover {
+    text-decoration: none !important;
+}
+
+.btn {
+    padding: 0.6rem 1.2rem;
+}
+
+
+.r4c-micro-programs .micro-programs-enroll-btn {
+    font-size: 1.1rem !important;
+}
+
+.r4c-micro-programs .r4c-micro-programs-card-moreinfo {
+    font-size: 1.1rem !important;
+}
+.r4c-micro-programs .card{
+    margin-right: 0px !important;
+}
+@media screen and (min-width:500px) {
+
+    .r4c-micro-programs .micro-programs-enroll-btn {
+        font-size: 1.3rem !important;
+    }
+    
+    .r4c-micro-programs .r4c-micro-programs-card-moreinfo {
+        font-size: 1.3rem !important;
+    }
+
+}
+
+@media screen and (min-width: 800px) {
+    .container {
+        padding: 2rem;
+    }
+
+    button {
+        appearance: auto;
+        text-rendering: auto;
+        letter-spacing: normal;
+        word-spacing: normal;
+        line-height: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        text-align: center;
+        align-items: flex-start;
+        cursor: default;
+        box-sizing: border-box;
+        margin: 0em;
+        padding-block: 1px;
+        padding-inline: 6px;
+        border-width: 2px;
+        border-style: outset;
+        border-color: buttonborder;
+        border-image: initial;
+        font: 'Urbanist', sans-serif;
+        font-size: 1rem;
+        background-image: none;
+    }
+
+    .r4c-micro-programs .card_header {
+        font-size: 1.56rem;
+        line-height: 1.8rem;
+    }
+
+    .image_wrapper {
+        height: 17.5rem;
+    }
+
+    .section_header {
+        font-size: 3.5rem;
+    }
+
+
+
+    .r4c-micro-programs-card-btns {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .card_detail,
+    .card_header {
+        padding: 0rem 1rem;
+
+    }
+
+    .micro-programs-enroll-btn {
+        font-size: 1.1rem !important;
+    }
+
+    .btn_container {
+        display: flex;
+        margin-left: auto;
+    }
+
+    .sidebar {
+        display: flex;
+        flex: 1;
+        align-self: flex-end;
+    }
+
+    .nav_list {
+        display: block;
+        align-self: flex-end;
+    }
+
+
+    .card {
+        margin: initial !important;
+        margin-right: 52px !important;
+        flex-basis: 45%;
+    }
+
+
+    .r4c-micro-programs .card_body {
+        padding: 2rem 3rem 0rem;
+    }
+
+    .r4c-micro-programs-card-moreinfo {
+        font-size: 1.1rem !important
+    }
+
+
+}
+
+@media screen and (min-width:994px) {
+
+    .btn {
+        padding: 1rem 2.5rem !important;
+    }
+
+    .r4c-micro-programs-card-btns {
+        padding: 1rem 1.5rem 0rem !important;
+    }
+
+    .micro-programs-enroll-btn {
+        margin-right: 1rem;
+    }
+
+    .r4c-micro-programs-card-moreinfo {
+        font-size: 1.2rem !important
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+
+    .section_header {
+        font-size: 4rem;
+    }
+
+    .card_detail_header {
+        font-size: 1rem;
+    }
+
+    .card_detail_list_item {
+        line-height: 1.5rem;
+    }
+
+
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "local": "public/logos/boostmyskills-logo.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/logo.a04a35de0e9f.png",
+    "status": "downloaded",
+    "bytes": 25121
+  },
+  {
+    "local": "public/favicon.ico",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/favicon.edaaebd53ba2.ico",
+    "status": "downloaded",
+    "bytes": 1406
+  },
+  {
+    "local": "public/images/landing.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/landing_img.0025075b09c8.png",
+    "status": "downloaded",
+    "bytes": 822264
+  },
+  {
+    "local": "public/icons/arrow-forward.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/Arrow_Forward.a70d6dfccf6c.png",
+    "status": "downloaded",
+    "bytes": 277
+  },
+  {
+    "local": "public/icons/arrow-down.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/arrow.c3581fde60ca.png",
+    "status": "downloaded",
+    "bytes": 219
+  },
+  {
+    "local": "public/images/certified.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/certified.2582bff6a7ea.png",
+    "status": "downloaded",
+    "bytes": 651
+  },
+  {
+    "local": "public/images/r4c-certificate.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/r4c-certificate.76545a175564.png",
+    "status": "downloaded",
+    "bytes": 671034
+  },
+  {
+    "local": "public/images/home-page-img.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/home-page-img.b2cc07721479.png",
+    "status": "downloaded",
+    "bytes": 282225
+  },
+  {
+    "local": "public/images/partners.jpeg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/partners.6d0f72c41051.jpeg",
+    "status": "downloaded",
+    "bytes": 2505578
+  },
+  {
+    "local": "public/images/extra-partners.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/extra_partners.c099416e96ae.png",
+    "status": "downloaded",
+    "bytes": 258039
+  },
+  {
+    "local": "public/icons/linkedin.png",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/linkedin.cda251af4802.png",
+    "status": "downloaded",
+    "bytes": 437
+  },
+  {
+    "local": "public/images/programmes/mp1.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp1.9026de4b47c9.jpg",
+    "status": "downloaded",
+    "bytes": 273452
+  },
+  {
+    "local": "public/images/programmes/mp2.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp2.125341b35629.jpg",
+    "status": "downloaded",
+    "bytes": 213702
+  },
+  {
+    "local": "public/images/programmes/mp3.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp3.1ab99ffae2ef.jpg",
+    "status": "downloaded",
+    "bytes": 209656
+  },
+  {
+    "local": "public/images/programmes/mp4.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp4.a8992395cb98.jpg",
+    "status": "downloaded",
+    "bytes": 223100
+  },
+  {
+    "local": "public/images/programmes/mp5.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp5.3afe1946e986.jpg",
+    "status": "downloaded",
+    "bytes": 298691
+  },
+  {
+    "local": "public/images/programmes/mp6.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp6.afaf4ce66e89.jpg",
+    "status": "downloaded",
+    "bytes": 255485
+  },
+  {
+    "local": "public/images/programmes/mp7.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp7.d023a8ea266c.jpg",
+    "status": "downloaded",
+    "bytes": 171736
+  },
+  {
+    "local": "public/images/programmes/mp8.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp8.898d5fe545e5.jpg",
+    "status": "downloaded",
+    "bytes": 227538
+  },
+  {
+    "local": "public/images/programmes/mp01sher.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp01sher.bc0585ca56ef.jpg",
+    "status": "downloaded",
+    "bytes": 210367
+  },
+  {
+    "local": "public/images/programmes/mp02sher.jpg",
+    "source": "https://boostmyskills.eu/static/res4city-theme/images/programs/mp02sher.bc0585ca56ef.jpg",
+    "status": "downloaded",
+    "bytes": 210367
+  }
+]

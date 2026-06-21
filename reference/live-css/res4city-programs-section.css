@@ -1,0 +1,228 @@
+.programs_section {
+    margin-top: 6rem;
+    width: 95%;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-top: 6rem;
+    width: 95%;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.section_header {
+    color: #1A1A1A;
+    font-weight: 600;
+    font-size: 2.2rem;
+    line-height: 2.5rem;
+    letter-spacing: -1.16px;
+    margin-bottom: 4rem;
+    font-family: 'Urbanist', sans-serif;
+}
+
+.cards_container {
+    margin-bottom: 0rem;
+}
+
+.carousel_btn_contianer {
+    display: none;
+}
+
+.card_carousel {
+    max-width: 100%;
+    display: flex;
+    overflow-x: scroll;
+    -webkit-scrollbar: none;
+    scrollbar-width: none;
+    align-content: stretch;
+}
+
+.card {
+    max-width: 500px;
+    margin-right: 2rem;
+    flex: 0 0 40%;
+    border: 1px solid #EEEEEE;
+    border-radius: 1.5rem;
+    margin-bottom: 2rem;
+    min-width: 300px;
+    /* Add this line to set a minimum width */
+
+
+}
+
+/* ::-webkit-scrollbar {
+    display: none;
+} */
+
+
+.image_wrapper {
+    background-color: #EAF3E7;
+    z-index: -2;
+    border-top-right-radius: 1.5rem;
+    border-top-left-radius: 1.5rem;
+}
+
+.card_body {
+    padding: 1.8rem 2.5rem;
+    flex-grow: 1;
+}
+
+.card_header {
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 1.8rem;
+    font-family: 'Urbanist', sans-serif !important;
+}
+
+.card_detail_list {
+    list-style: disc;
+}
+
+.card_detail_list_item {
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #767676;
+    line-height: 1.4rem;
+}
+
+.card_detail_header {
+    font-weight: 400;
+}
+
+.card_detail {
+    margin-bottom: 3rem;
+    flex-grow: 1;
+    position: relative;
+    padding-bottom: 2rem;
+}
+
+.btn {
+    border: 1px;
+    border-radius: 2.7rem;
+    padding: 7.5px 30px;
+    background: rgba(7, 152, 69, 1);
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    appearance: auto;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    margin: 0em;
+    padding-block: 1px;
+    padding-inline: 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+
+.programs_section .link_btn {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.programs_section .link_btn:hover,
+.programs_section .link_btn:active,
+.programs_section .link_btn:focus,
+.programs_section .link_btn:visited {
+    text-decoration: none;
+    color: black !important
+}
+
+.programs_section a:not(.btn):hover,
+.programs_section a:not(.btn):focus,
+.programs_section a:visited:not(.btn):hover {
+    color: initial !important;
+}
+
+@media screen and (min-width: 800px) {
+    s button {
+        appearance: auto;
+        text-rendering: auto;
+        letter-spacing: normal;
+        word-spacing: normal;
+        line-height: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        text-align: center;
+        align-items: flex-start;
+        cursor: default;
+        box-sizing: border-box;
+        margin: 0em;
+        padding-block: 1px;
+        padding-inline: 6px;
+        border-width: 2px;
+        border-style: outset;
+        border-color: buttonborder;
+        border-image: initial;
+        font: 'Urbanist', sans-serif;
+        font-size: 1rem;
+        background-image: none;
+    }
+
+    .btn_container {
+        display: flex;
+        margin-left: auto;
+
+    }
+
+    .sidebar {
+        display: flex;
+        flex: 1;
+        align-self: flex-end;
+    }
+
+    .nav_list {
+        display: block;
+        align-self: flex-end;
+    }
+
+    .card {
+        flex: 0 0 95%;
+        max-width: 500px;
+    }
+
+    .cards_container {
+        position: relative;
+    }
+
+    .carousel_btn_contianer {
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 0px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem;
+    }
+
+    .carousel-btn {
+        background-color: #079845;
+        opacity: 90%;
+        border: none;
+        width: 4em;
+        height: 4rem;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+
+    #prevBtn img {
+        transform: rotate(-180deg);
+    }
+}

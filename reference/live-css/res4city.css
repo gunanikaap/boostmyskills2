@@ -1,0 +1,1089 @@
+.main-header {
+    width: 100%;
+    padding: 0rem .75rem !important;
+}
+
+.hamburger-menu {
+    left: 6px !important;
+}
+
+@media screen and (min-width: 992px) {
+    .main-header {
+        max-width: 1440px;
+        margin: auto;
+    }
+
+    .main-header .header-logo a {
+        margin: 0;
+        margin-left: .6rem;
+    }
+}
+
+@media screen and (min-width: 1440px) and (max-width: 1480px) {
+    .main-header .header-logo a {
+        margin-left: 0.5rem;
+    }
+
+}
+
+@media screen and (min-width: 1480px) {
+
+    .main-header .header-logo a {
+        margin: 0;
+        margin-left: 0rem !important;
+    }
+}
+
+
+.global-header .nav-links .secondary .btn {
+    border: 1px solid rgba(7, 152, 69, 1);
+    color: black;
+    padding: 0.7rem 3rem;
+    border-radius: 2.7rem;
+    background: rgba(7, 152, 69, 1);
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.global-header .nav-links .secondary a.register-btn {
+    background: #fff;
+    color: black;
+}
+
+.global-header .nav-links .secondary a.sign-in-btn {
+    background-color: #079845;
+    color: #fff;
+    border: 1px solid rgba(7, 152, 69, 1);
+    border-radius: 2.7rem;
+}
+
+.global-header .header-logo a .logo {
+    float: left;
+}
+
+.content-wrapper {
+    overflow: hidden;
+}
+
+/* 
+@media screen and (min-width: 992px) {
+    .global-header .header-logo a .logo {
+        height: 56px;
+    }
+} */
+
+/* 
+@media screen and (max-width: 991px) {
+    .global-header .header-logo a .logo {
+        height: 45px;
+    }
+} */
+
+.global-header {
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 10px;
+    border-bottom: none;
+    box-shadow: none;
+    background: #fff;
+    line-height: 1.0;
+    margin: auto;
+    overflow: initial !important;
+    position: fixed !important;
+    top: 0px !important;
+    left: 0px !important;
+    right: 0px !important;
+    margin: auto;
+
+    z-index: 100;
+}
+
+.r4c-header-arrow-icon {
+    margin-left: .7rem;
+}
+
+.header_body {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.home>header {
+    background: #fff;
+    box-shadow: none;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Urbanist', sans-serif;
+    color: #1A1A1A;
+}
+
+h1 {
+    font: 'Urbanist', sans-serif;
+}
+
+h2 {
+    font: 'Urbanist', sans-serif;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    overflow: hidden;
+    background-color: #fff;
+    padding: 3rem 0;
+}
+
+h1 {
+    line-height: 1em;
+}
+
+.info {}
+
+.course_h2 {
+    color: #079845 !important;
+    font-size: 2.625rem !important;
+    font-weight: 600 !important;
+    font-family: 'Urbanist' !important;
+}
+
+.course_paragraph {
+    color: #767676;
+    font-family: 'Urbanist' !important;
+    font-size: 1.2rem;
+    font-weight: 500 !important;
+    line-height: 1.875rem;
+}
+
+.course_ul {
+    list-style-type: none;
+}
+
+.course_li {
+    position: relative;
+    margin-bottom: 22px;
+    margin-top: 8px;
+    padding-left: 25px;
+    color: #767676;
+    font-family: 'Urbanist' !important;
+    font-size: 1.2rem;
+    font-weight: 600 !important;
+    padding-top: 0.25rem;
+}
+
+.course_li:before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: -30px;
+    top: -3px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #D5E7D0;
+    background-image: url("/static/res4city-theme/images/done-check.fba00b7a83eb.png");
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.course_header {
+    max-width: 1180px;
+    margin: auto;
+    border: none !important;
+    box-shadow: none !important;
+    overflow: unset !important;
+}
+
+.course_inner_wrapper {
+    border: none !important;
+    box-shadow: none !important;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: unset !important;
+}
+
+.course_hero {
+    border: none !important;
+}
+
+.course_img {
+    border-radius: 1.81rem;
+    height: 323px !important;
+    max-width: 462px !important;
+    width: 100% !important;
+    min-width: 315px !important;
+}
+
+.course_header_heading_group {
+    border-bottom: none !important;
+    padding-bottom: 0px !important;
+}
+
+.course_header_h1 {
+    color: #1A1A1A !important;
+    font-size: 2.5rem !important;
+    font-weight: 600 !important;
+    font-family: 'Urbanist' !important;
+    padding-top: 0.5rem;
+    line-height: 3.125rem;
+}
+
+.course_header_intro {
+    width: unset !important;
+    flex: 1 1 50%;
+    display: flex !important;
+    flex-direction: column;
+}
+
+.course_by_university {
+    color: #767676 !important;
+    font-size: 1.25rem;
+    margin-top: 1.2rem;
+    font-family: 'Urbanist' !important;
+    font-weight: 500 !important;
+    line-height: 1.875rem;
+}
+
+.course_enrolle_btn {
+    border-radius: 27px !important;
+    border: none !important;
+    background-image: none !important;
+    background-color: #079845 !important;
+    width: 11rem !important;
+    font-size: 1.125rem !important;
+    line-height: 1.75rem !important;
+    font-family: 'Urbanist' !important;
+    font-weight: 500 !important;
+    text-shadow: none !important;
+    margin-left: auto;
+    color: #fff !important;
+    padding: 10px 0;
+    text-align: center;
+    letter-spacing: 1px;
+    font: normal 1.2rem/1.6rem "Urbanist", sans-serif;
+}
+
+.r4c-view-btn {
+    display: flex;
+    margin: auto;
+}
+
+.r4c-social-sharing {
+    display: flex;
+}
+
+.r4c-wrapper-banner-certificate {
+    box-shadow: inset 0 0.125rem 0.125rem 0 #079845 !important;
+    background: #079845 !important;
+}
+
+.r4c-action-print {
+    border-radius: 0.8rem !important;
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+    font-family: 'Urbanist' !important;
+}
+
+.r4c-urbanist {
+    font-family: 'Urbanist' !important;
+}
+
+.course_not_enrolle_btn {
+    border-radius: 27px !important;
+    border: none !important;
+    background-image: none !important;
+    background-color: #079845 !important;
+    width: 11rem !important;
+    font-size: 1.125rem !important;
+    line-height: 1.75rem !important;
+    font-family: 'Urbanist' !important;
+    font-weight: 500 !important;
+    text-shadow: none !important;
+}
+
+.course_media {
+    padding-left: 0 !important;
+    flex: 1 1 50%;
+}
+
+
+@media (min-width: 768px) {
+    .course-info .details {
+        margin-right: 8.35765%;
+        width: 59.88078%;
+        float: left;
+    }
+
+}
+
+@media (max-width: 890px) {
+    .course_media {
+        flex-basis: 100% !important;
+    }
+
+    .course_header_intro {
+        flex-basis: 100% !important;
+    }
+}
+
+.course_main_cta {
+    display: flex;
+    align-items: center;
+    margin-top: auto;
+    padding-bottom: 0.3rem;
+}
+
+.social_share_wrapper {
+    padding-left: 1rem;
+    align-self: center;
+    margin-left: auto;
+}
+
+.social_icon {
+    font-size: 20px;
+    margin-left: 10px;
+    color: black;
+}
+
+.fa-linkedin:before {
+    content: "\f0e1";
+}
+
+.r4c_course_sidebar {
+    border-radius: 20px;
+    background: #F6F7F9;
+    padding: 2rem 0.5rem;
+}
+
+.course-sidebar {
+    width: 33.6% !important;
+}
+
+.details {
+    width: 56% !important;
+}
+
+.course-info .course-sidebar .important-dates li {
+    border-bottom: none !important;
+    margin-bottom: 0.2rem !important;
+    padding-bottom: 10px;
+}
+
+.course-info .course-sidebar .important-dates li .important-dates-item-text {
+    float: unset !important;
+    flex: 1 2;
+}
+
+@media (max-width: 1220px) {
+    .course-info .course-sidebar .important-dates li .important-dates-item-text {
+        flex-basis: 100%;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .important-dates-item-title {
+        flex-basis: 100% !important;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .course-info header.course-profile .intro-inner-wrapper .media .hero {
+        margin-left: 20px;
+    }
+
+}
+
+.course-info .course-sidebar .important-dates li .icon {
+    float: left;
+    padding: 1px;
+    margin: 0 10px 0 0 !important;
+    opacity: 0.6;
+}
+
+.fa-clock-o,
+.fa-info-circle {
+    font-size: 1.3rem;
+}
+
+.important-dates-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center !important;
+}
+
+.important-dates-item-title,
+.important-dates-item-text {
+    font-size: 1.25rem !important;
+    font-family: 'Urbanist' !important;
+    line-height: 2.1rem !important;
+    color: black !important;
+    margin-right: 0.3rem !important;
+    flex: 2 1;
+}
+
+.sections_sidebar {
+    border-radius: 20px;
+    border: 2px solid #EEEEEE;
+    padding-right: 3.625rem;
+    padding-left: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-top: 3.5rem;
+}
+
+
+.sections_title {
+    font-family: 'Urbanist' !important;
+    font-size: 2.625rem !important;
+    line-height: 3.25rem !important;
+    font-weight: 500 !important;
+    margin-bottom: 2.7rem;
+}
+
+.course_content_sections {
+    list-style-type: none;
+    padding-left: 0;
+    counter-reset: item;
+}
+
+.course_content_section_item {
+    position: relative;
+    margin-bottom: 10px;
+    display: inline-flex;
+    align-items: center;
+    color: #1A1A1A;
+    font-weight: 500;
+    font-size: 1.25rem !important;
+    line-height: 1.5rem !important;
+}
+
+.course_content_section_item:before {
+    content: counter(item);
+    counter-increment: item;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 3.5rem;
+    max-width: 3.5rem;
+    height: 3.5rem;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 10px;
+    background-color: rgba(213, 231, 208, 0.5);
+    font-size: 1.625rem !important;
+    color: #079845;
+    font-weight: bolder;
+}
+
+.course_content_section_item span {
+    margin-left: 10px;
+}
+
+.created_delivered_title {
+    color: #079845;
+    font-size: 1.25rem !important;
+    line-height: 1.8rem !important;
+    font-weight: 600 !important;
+    margin-top: 3.5rem !important;
+}
+
+.course_author {
+    color: #1A1A1A;
+    font-size: 1.25rem !important;
+    line-height: 1.8rem !important;
+    font-family: 'Urbanist' !important;
+    margin-top: 0.8rem;
+    font-weight: 500 !important;
+}
+
+.university_info {
+    color: #767676;
+    font-size: 0.95rem !important;
+    line-height: 1.2rem !important;
+    margin-top: 0.5rem !important;
+}
+
+.more-info-btn {
+    margin-left: auto;
+}
+
+.already_enrolled {
+    border-radius: 1.81rem !important;
+    width: 203px !important;
+    padding: 11px 20px !important;
+    border: none !important;
+    font-size: 1.05rem !important;
+    margin-top: 5.5rem;
+    margin-right: 0.5rem !important;
+}
+
+@media (max-width:894px) {
+    .course_enrolle_btn {
+        margin-left: 2.5rem !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .global-header .nav-links .secondary .dropdown-user-menu {
+        position: fixed;
+    }
+}
+
+.program-cards-container {
+    flex-direction: column;
+}
+
+.program-list-container {
+    margin: auto !important;
+
+}
+
+.program-list-container .col {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.program-card {
+    flex: initial !important;
+    max-width: initial !important;
+    border: initial !important;
+    border-bottom: initial !important;
+    margin-bottom: initial !important;
+    position: initial !important;
+    margin-right: initial !important;
+    margin-left: initial !important;
+    width: 100% !important;
+    margin-bottom: 4rem !important;
+}
+
+.program-card .meta-info.grid-container {
+    display: none !important;
+}
+
+.banner-image-container {
+    border: #716D6B 1px solid;
+    height: 20rem !important;
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.micro-programs-card-content {
+    display: flex;
+    flex: 1;
+    margin-left: 1rem;
+    flex-direction: column;
+}
+
+.program-card .hd-3 {
+    font-size: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+
+.micro-programs-card-header {
+    font-size: 2rem !important;
+    line-height: 3rem;
+    color: #1A1A1A;
+    font-weight: 600;
+    margin-bottom: 2rem;
+
+}
+
+.status-text {
+    margin-bottom: 2.5rem !important;
+}
+
+.number-status {
+    border-radius: .4rem;
+    margin-right: 1rem;
+    padding-top: 8px;
+    width: initial !important;
+    font-size: .9rem !important;
+}
+
+.number-status .completed-text {
+    color: #079845;
+}
+
+.number-status .inprogress-text {
+    color: #B4B736;
+}
+
+.number-status .remaining-text {
+    color: #716D6B !important;
+}
+
+.number-circle {
+    background-color: initial !important;
+    font-size: 1.1rem !important;
+    height: initial !important;
+    margin-left: initial !important;
+    margin-right: initial !important;
+}
+
+.number-circle.not-enrolled {
+    color: #716D6B !important;
+
+}
+
+.number-circle.completed {
+    color: #079845 !important;
+
+}
+
+.number-circle.enrolled {
+
+    color: #B4B736 !important;
+
+}
+
+.number-status-completed {
+    border: 1px solid #079845;
+
+}
+
+.number-status-inprogress {
+    border: 1px solid #B4B736;
+}
+
+.number-status-remaining {
+    border: 1px solid #716D6B;
+}
+
+.progress-container {
+    display: none !important;
+}
+
+.micro-programs-card-btn {
+    background-color: #079845;
+    border-radius: 1.8rem;
+    color: white !important;
+    padding: 1rem 2rem;
+    display: inline-block;
+    font-size: 1.1rem;
+    font-weight: 600;
+    width: fit-content;
+    margin-top: auto;
+}
+
+.micro-programs-btn-arrow {
+    margin-left: 1.5rem;
+
+}
+
+.r4c-mymicro-programs-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+}
+
+.r4c-mymicro-programs-title {
+    color: #1a1a1a;
+    font-family: "Urbanist" !important;
+    font-size: 3.2rem !important;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.micro-programs-search-wrapper {
+    position: relative;
+    width: 21rem;
+    height: 3.1rem;
+
+}
+
+.micro-programs-search {
+    border: solid 1px #BDBDBD;
+    border-radius: 10px;
+    width: 100%;
+    padding-left: 2rem;
+    color: #1a1a1a;
+    height: 100% !important;
+}
+
+.micro-programs-search::placeholder {
+    color: #BDBDBD;
+    font-size: 1.1rem;
+}
+
+.micro-programs-search:focus {
+    outline: none;
+}
+
+.micro-programs-search-icon {
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    transform: translate(10%, -50%);
+
+}
+
+.content-wrapper {
+    margin: 100px auto 0 auto;
+}
+
+.view-courseware .content-wrapper {
+    margin: 0 !important;
+}
+
+
+.link_btn a,
+.link_btn a:visited {
+    color: black;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+.dropdown-menu ul,
+.dropdown-menu nav ol {
+    margin: 0;
+    padding: 0;
+}
+
+.dropdown-list-item {
+    line-height: 3rem;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+@media screen and (min-width: 800px) {
+    .program-card {
+        display: flex;
+    }
+
+    .banner-image-container {
+        width: 26.25rem !important;
+
+    }
+
+    .banner-image-container {
+        margin-bottom: 0rem;
+    }
+
+}
+
+@media screen and (min-width: 900px) {
+    .number-status {
+        display: flex;
+        align-items: center;
+    }
+
+    .completed-text,
+    .remaining-text,
+    .inprogress-text {
+        font-size: 1.1rem;
+    }
+
+    .r4c-mymicro-programs-title {
+        margin-bottom: 0rem;
+    }
+
+    .global-header .nav-links .secondary .nav-item a:not(.sign-in-btn) {
+        color: #000;
+    }
+}
+
+
+
+
+/* Journey*/
+
+.r4c-program-title {
+    color: #1A1A1A;
+    font-size: 2.625rem;
+    font-weight: 600;
+    line-height: 3.1rem;
+    font-family: 'Urbanist';
+    margin-bottom: 2rem;
+}
+
+.r4c-program-details {
+    background-color: rgba(213, 231, 208, 0.2);
+    padding: 2.3rem 1.4rem 2rem 2.3rem;
+    border-radius: 1.25rem;
+}
+
+.r4c-progress-circle-wrapper {
+    border-radius: 1.25rem;
+    border: 1px solid rgba(213, 231, 208);
+    padding: 2rem 1.5rem 2rem 1.5rem;
+    width: 21.9rem;
+    height: 21.9rem;
+}
+
+.r4c-circle {
+    text-align: center;
+}
+
+.r4c-journey-completed-progress {
+    stroke: #079845 !important;
+    stroke-width: 5px !important;
+}
+
+.r4c-journey-incompleted-progress {
+    stroke: #D5E7D0 !important;
+    stroke-width: 5px !important;
+}
+
+.r4c-progress-heading {
+    color: #079845;
+    font-size: 1.75rem;
+    line-height: 2.5rem;
+    font-family: 'Urbanist';
+    margin-bottom: 1rem;
+}
+
+.r4c-circle-size {
+    width: 250px;
+    height: 250px;
+}
+
+.r4c-progress-label {
+    font-size: 0.7rem !important;
+    color: #079845 !important;
+}
+
+.r4c-progress-numbers .complete,
+.r4c-progress-numbers .total {
+    color: #079845 !important;
+    font-weight: 600 !important;
+}
+
+.r4c-progress-numbers .slash {
+    color: #079845 !important;
+    font-weight: 600 !important;
+}
+
+.r4c-progress-numbers {
+    font-size: 4rem;
+}
+
+.r4c-course-list {
+    margin-left: unset !important;
+}
+
+.r4c-progress-circle-wrapper .numbers {
+    font-size: 4em !important;
+}
+
+.r4c-journey-status {
+    color: #079845;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 2.8rem;
+}
+
+.r4c-journey-count {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 2.8rem;
+    color: black;
+    margin-left: 0.5rem;
+}
+
+.r4c-course-list-heading {
+    display: flex;
+    align-items: center;
+    border-bottom: 3px solid rgba(213, 231, 208) !important;
+}
+
+.bookmark-icon {
+    margin-right: 0.5rem;
+}
+
+.r4c-enrollment-opens {
+    font-size: 1.1rem;
+    font-family: 'Urbanist';
+}
+
+.r4c-no-action-message {
+    font-size: 1.1rem;
+    font-family: 'Urbanist';
+}
+
+.r4c-course-title {
+    font-size: 1.4rem !important;
+    color: #1A1A1A !important;
+    font-family: 'Urbanist' !important;
+}
+
+.r4c-motivating-heading {
+    font-size: 1.1rem !important;
+    font-family: 'Urbanist' !important;
+}
+
+.r4c-motivating-message {
+    font-size: 1.1rem !important;
+    font-family: 'Urbanist' !important;
+}
+
+.program-course-card {
+    background-color: unset !important;
+    font-family: 'Urbanist';
+    border: 1px solid rgba(213, 231, 208);
+    border-radius: 20px;
+    padding: 1.2rem 1.5rem 1.2rem 1.5rem !important;
+    margin-top: 1rem;
+}
+
+.r4c-divider-heading {
+    color: #079845 !important;
+    font-family: 'Urbanist' !important;
+    font-size: 1.25rem !important;
+    border-bottom: 3px solid rgba(213, 231, 208) !important;
+}
+
+.search-facets-lists {
+    box-sizing: initial
+}
+
+.xmodule_display.xmodule_ProblemBlock div.problem .choicegroup input+label.choicegroup_incorrect {
+    color: red;
+    border: 2px solid red !important;
+}
+
+
+@media screen and (max-width: 991.98px) {
+    .global-header .hamburger-menu.open {
+        position: absolute;
+        left: 20px !important;
+        z-index: 10;
+        width: 30px;
+        ;
+    }
+
+    .global-header .mobile-menu {
+        position: relative;
+        border-top: #BDBDBD 1px solid !important;
+        margin-top: 2rem;
+    }
+
+    .global-header .mobile-menu {
+        background-color: white;
+    }
+
+    .mobile-menu .mobile-nav-link a {
+        border-bottom: initial !important;
+    }
+
+    .mobile-menu .mobile-nav-link {
+        border-bottom: 1px solid #e7e7e7;
+    }
+
+    .dropdown-list-item {
+        margin: .75rem !important;
+    }
+
+}
+
+@media print {
+    body {
+        margin: 0 !important;
+    }
+
+    .certificate-container {
+        width: 100% !important;
+    }
+
+    .wrapper-accomplishment-rendering{
+        display: contents;
+    }
+
+    .accomplishment-rendering {
+        padding: 0;
+        box-shadow: none;
+        border: none;
+    }
+
+    .r4c-certificate-logo {
+        width: 118px !important;
+    }
+    
+    .r4c-certificate-header {
+        font-size: 21px !important;
+    }
+    
+    .r4c-certificate-student-name {
+        font-size: 40px !important;
+    }
+    
+    .r4c-certificate-info {
+        font-size: 18px !important;
+    }
+    
+    .r4c-certificate-course-name {
+        font-size: 35px !important;
+    }
+    
+    .r4c-certificate-desc {
+        font-size: 15px !important; 
+    }
+}
+
+@page {
+    size: A4;
+}
+
+.cc-window {
+	position: relative !important;
+}
+
+.cc-window .cc-link {
+    display: inline !important;
+    text-decoration: underline !important;
+    font: inherit !important;		
+}
+.cc-window .cc-btn {
+    font: inherit !important;
+    background-color: #079845 !important;
+    justify-content: center !important;
+    padding: 0 .8em !important;
+}
+
+.r4c-dashboard-nav-btn {
+    color: #000 !important;
+    font-weight: 600 !important;
+    font-family: "Urbanist" !important;
+}
+  
+.r4c-dashboard-nav-btn.active {
+    color: #079845 !important;
+}

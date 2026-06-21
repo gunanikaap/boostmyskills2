@@ -1,0 +1,10 @@
+Account activation
+
+You're almost there! Use the link below to activate your account to access BoostMySkills. Note that you will not be able to log back into your account until you have activated it.
+
+Activate your account: {{ .ConfirmationURL }}
+
+Enjoy learning with BoostMySkills.
+
+---
+This email message was automatically sent to you because someone attempted to create an account on BoostMySkills using this email address.
